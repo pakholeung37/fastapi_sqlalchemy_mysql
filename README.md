@@ -9,7 +9,7 @@
 1. 安装依赖项
 
    ```shell
-   pip install -r requirements.txt
+   uv sync
    ```
 
 2. 创建一个数据库 `fsm`, 选择 `utf8mb4` 编码
